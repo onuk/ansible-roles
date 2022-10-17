@@ -12,6 +12,7 @@ Roles
 
 - [ansible-baseline](https://github.com/onuk/ansible-baseline) - This base role configures some parameters and installs base tools in the system.
 - [ansible-pritunl](https://github.com/onuk/ansible-pritunl) - This ansible role installs the [Pritunl VPN](https://pritunl.com) server.
+- [ansible-nfs](https://github.com/onuk/ansible-nfs) - This ansible role installs the [Network File System (NFS)](https://ubuntu.com/server/docs/service-nfs) and utilities.
 
 License
 -------
