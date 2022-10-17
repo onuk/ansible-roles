@@ -1,3 +1,7 @@
+# 0.0.4 - Yurii Onuk
+## Added
+- Added ansible-nfs-mount ansible role that manages NFS mounts on Ubuntu.
+ 
 # 0.0.3 - Yurii Onuk
 ## Added
 - Added ansible-nfs role that installs the [Network File System (NFS)](https://ubuntu.com/server/docs/service-nfs) and utilities on Ubuntu.
